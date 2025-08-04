@@ -46,7 +46,9 @@ A terminal-based university portal built in Python for students, teachers, and a
 
 - Python 3.x
 - `matplotlib`  
-  
+    ```bash
+  pip install matplotlib
+    
 🧪 Sample Accounts
 You can use any of these predefined accounts to test:
 
@@ -67,5 +69,17 @@ Password: stud001
 
 (More student accounts available up to student20)
 
-  ```bash
-  pip install matplotlib
+
+✅ To Do / Improvements
+ Store data in JSON / SQLite / CSV instead of memory
+
+ Add salary slip management
+
+ Implement teacher-course interaction (e.g., grading, feedback)
+
+ Add a logout timer or a session system
+
+ GUI version using Tkinter / PyQT
+
+📜 License
+This project is for educational/demo purposes only and not intended for production use.
